@@ -1,0 +1,9 @@
+total 32
+drwxrwxr-x  3 sakhi sakhi 4096 Jan 17 20:58 .
+drwxr-xr-x 31 sakhi sakhi 4096 Jan 14 20:02 ..
+-rwxrwxr-x  1 sakhi sakhi  234 Jan 17 19:24 exp3.sh
+-rw-rw-r--  1 sakhi sakhi   33 Jan 17 19:22 first.sh
+drwxr-xr-x  2 sakhi sakhi 4096 Jan 11 16:28 fosslabmanual
+-rw-rw-r--  1 sakhi sakhi  118 Jan 17 19:28 hello.sh
+-rw-rw-r--  1 sakhi sakhi    0 Jan 17 20:58 new.txt
+-rw-rw-r--  1 sakhi sakhi 5055 Dec 31 13:02 PracticeQu.docx

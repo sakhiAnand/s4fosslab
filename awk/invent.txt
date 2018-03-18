@@ -1,0 +1,12 @@
+itemcode item price
+101	biscuit 12
+102	apples	65
+103	biscuit	35
+104	SUGAR	65
+106	orange	40
+107	paper	35
+108	biscuit	30
+109	paper	65
+110	salt	15
+
+

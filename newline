@@ -1,0 +1,4 @@
+   echo -n "$j "
+   j=$(( j + 1 )) # increase number by 1 
+done
+echo ""
